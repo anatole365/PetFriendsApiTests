@@ -1,4 +1,4 @@
-# PetFriendsApiTests
+# PetFriendsApiTests https://petfriends.skillfactory.ru/
 
 В директории /tests располагаются файлы с тестами
 
